@@ -29,7 +29,7 @@ function progenitor_sidebar_1_class() {
   else:
   ?>col-sm-4<?php
   endif;
-  ?> order-sm-2"<?php
+  ?> order-2"<?php
 }
 
 /*
